@@ -1,0 +1,1 @@
+INSERT INTO FOO VALUES ('foo1');
